@@ -1,0 +1,8 @@
+/* 
+  Menu.strings
+  HackerNewsDemo
+
+  Created by Daniel Garcia Alvarado on 10/5/18.
+  Copyright © 2018 Dragonfly Labs. All rights reserved.
+*/
+"menu_tab_news" = "News";
